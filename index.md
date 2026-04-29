@@ -42,8 +42,8 @@ The same functionality is also exposed as a set of tools an AI assistant can cal
 | `bdc/state.py` | Tracks what has been downloaded (SQLite) |
 | `bdc/downloader.py` | Downloads files safely with retry and verification |
 | `bdc/ingest.py` | Loads downloaded files into DuckDB |
-| main.py | CLI entry point |
-| mcp_server.py | AI agent tool server |
+| `main.py` | CLI entry point |
+| `mcp_server.py` | AI agent tool server |
 
 ---
 
